@@ -1,0 +1,8 @@
+# IDE Specific Files
+.vscode/
+.idea/
+*.iml
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
